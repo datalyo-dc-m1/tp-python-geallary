@@ -14,7 +14,7 @@ class Banana:
 banana_green = Banana('verte')
 banana_yellow = Banana('jaune')
 pierre = Monkey("Pierre")
-bob = Monkey("bob")
+marie = Monkey("bob")
 
 pierre.eat(banana_yellow)
-bob.eat(banana_green)
+marie.eat(banana_green)
